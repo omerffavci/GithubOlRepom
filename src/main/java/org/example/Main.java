@@ -10,6 +10,8 @@ public class Main {
         int sayi = 34;
         int sayi2 = 46;
         System.out.println(sayi2+sayi);
+
+        System.out.println("aktarma basarili");
     }
 
 
